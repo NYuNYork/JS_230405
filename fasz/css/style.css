@@ -1,0 +1,50 @@
+body{
+    background-color: #f9f9f9
+}
+
+.form{
+    margin: auto;
+    border: 1px solid black;
+    max-width: 600px;
+    min-width: 300px;
+    padding: 20px;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.flex{
+    display: flex;  
+}
+
+.bal{
+    width: 48%;
+    padding-top: 14px;
+}
+.bal label{
+    font-size: 120%;
+}
+
+.jobb{
+    width: 50%;
+}
+
+.jobb input{
+    width: 100%;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding: 5px;
+    font-size: 120%;
+}
+button{
+    margin-top: 25px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+#check{
+    width:  auto;
+    margin-top: 15px;
+}
